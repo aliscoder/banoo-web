@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/banoo-web/static/js/main.fd4a2b3d.js",
+    "main.js": "/banoo-web/static/js/main.fc909822.js",
     "static/js/915.575d43f5.js": "/banoo-web/static/js/915.575d43f5.js",
     "static/media/MaterialCommunityIcons.ttf": "/banoo-web/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Base.jpg": "/banoo-web/static/media/Base.fcaeaf7cca13d3dde112.jpg",
@@ -22,11 +22,11 @@
     "favicon-16.png": "/banoo-web/favicon-16.png",
     "manifest.json": "/banoo-web/manifest.json",
     "serve.json": "/banoo-web/serve.json",
-    "main.fd4a2b3d.js.map": "/banoo-web/static/js/main.fd4a2b3d.js.map",
+    "main.fc909822.js.map": "/banoo-web/static/js/main.fc909822.js.map",
     "915.575d43f5.js.map": "/banoo-web/static/js/915.575d43f5.js.map"
   },
   "entrypoints": [
     "static/js/915.575d43f5.js",
-    "static/js/main.fd4a2b3d.js"
+    "static/js/main.fc909822.js"
   ]
 }
